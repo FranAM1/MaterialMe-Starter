@@ -1,0 +1,4 @@
+com.example.android.materialme.test.app-androidTest-0 C:\Users\Fran\Downloads\MaterialMe-Starter\MaterialMe-Starter\app\build\generated\res\resValues\androidTest\debug
+com.example.android.materialme.test.app-mergeDebugAndroidTestResources-1 C:\Users\Fran\Downloads\MaterialMe-Starter\MaterialMe-Starter\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.android.materialme.test.app-mergeDebugAndroidTestResources-2 C:\Users\Fran\Downloads\MaterialMe-Starter\MaterialMe-Starter\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.android.materialme.test.app-merged_res-3 C:\Users\Fran\Downloads\MaterialMe-Starter\MaterialMe-Starter\app\build\intermediates\merged_res\debugAndroidTest
