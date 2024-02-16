@@ -2998,6 +2998,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_reset
 drawable ic_search_black_24
 drawable img_badminton
 drawable img_baseball
@@ -3594,6 +3595,7 @@ integer cancel_button_image_alpha
 integer config_tooltipAnimTime
 integer design_snackbar_text_max_lines
 integer design_tab_indicator_anim_duration_ms
+integer grid_column_count
 integer hide_password_duration
 integer m3_badge_max_number
 integer m3_btn_anim_delay_ms

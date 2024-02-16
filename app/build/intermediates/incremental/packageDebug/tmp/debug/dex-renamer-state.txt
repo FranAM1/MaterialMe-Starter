@@ -1,4 +1,4 @@
-#Thu Feb 15 20:43:05 CET 2024
+#Fri Feb 16 19:27:40 CET 2024
 base.0=C\:\\Users\\Fran\\Downloads\\MaterialMe-Starter\\MaterialMe-Starter\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\Fran\\Downloads\\MaterialMe-Starter\\MaterialMe-Starter\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\Fran\\Downloads\\MaterialMe-Starter\\MaterialMe-Starter\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
