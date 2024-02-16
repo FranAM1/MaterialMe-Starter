@@ -18,6 +18,7 @@ package com.example.android.materialme;
 
 import android.content.res.TypedArray;
 import android.os.Bundle;
+import android.view.View;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -108,6 +109,10 @@ public class MainActivity extends AppCompatActivity {
         // Notify the adapter of the change.
         mAdapter.notifyDataSetChanged();
 
+    }
+
+    public void resetSports(View view) {
+        initializeData();
     }
 
 }
